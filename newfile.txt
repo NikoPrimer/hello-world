@@ -2,4 +2,11 @@ Ovo je novi tekst file
 
 baš je kul
 
+<<<<<<< HEAD
 dodatak
+=======
+
+da vidim kaj će biti
+
+novi branch
+>>>>>>> b9c8ada (comit iz drugog brancha)
